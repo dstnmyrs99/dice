@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background-color: #22577A;
+}
+h1{
+  margin: 45px 0;
+}
+.range, .die{
+  margin: 10px;
+}
+p{
+  margin: 0;
+}
+.result{
+  margin-top: 15px;
+}
